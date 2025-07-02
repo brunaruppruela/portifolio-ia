@@ -1,6 +1,6 @@
 # Portfólio de Inteligência Artificial 🇧🇷
 
-> **Autor(a):** _Seu Nome_  
+> **Autor(a):** Bruna Rupp 
 > **Última atualização:** Julho 2025  
 > **Objetivo:** Demonstrar competências práticas em IA (modelos preditivos e agentes), MLOps e engenharia de dados.
 
