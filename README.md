@@ -114,5 +114,5 @@ Este projeto está licenciado sob os termos da licença **MIT** – consulte o a
 
 ## 📫 Contato
 
-- LinkedIn: [seu‑linkedin]([https://linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/bruna-rupp-ruela-28739090/))
+- LinkedIn: https://www.linkedin.com/in/bruna-rupp-ruela-28739090/
 - E‑mail: `brunarupp@gmail.com`
